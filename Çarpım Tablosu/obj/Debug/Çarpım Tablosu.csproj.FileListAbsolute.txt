@@ -1,0 +1,8 @@
+E:\Visual Studio Kodları\Çarpım Tablosu\Çarpım Tablosu\bin\Debug\Çarpım Tablosu.exe.config
+E:\Visual Studio Kodları\Çarpım Tablosu\Çarpım Tablosu\bin\Debug\Çarpım Tablosu.exe
+E:\Visual Studio Kodları\Çarpım Tablosu\Çarpım Tablosu\bin\Debug\Çarpım Tablosu.pdb
+E:\Visual Studio Kodları\Çarpım Tablosu\Çarpım Tablosu\obj\Debug\Çarpım Tablosu.csproj.AssemblyReference.cache
+E:\Visual Studio Kodları\Çarpım Tablosu\Çarpım Tablosu\obj\Debug\Çarpım Tablosu.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio Kodları\Çarpım Tablosu\Çarpım Tablosu\obj\Debug\Çarpım Tablosu.csproj.CoreCompileInputs.cache
+E:\Visual Studio Kodları\Çarpım Tablosu\Çarpım Tablosu\obj\Debug\Çarpım Tablosu.exe
+E:\Visual Studio Kodları\Çarpım Tablosu\Çarpım Tablosu\obj\Debug\Çarpım Tablosu.pdb
